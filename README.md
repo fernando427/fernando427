@@ -1,6 +1,14 @@
-#### Hello there, I'm Fernando! 👋
+### Hello there, I'm Fernando! 👋
 
-#### 📈 My stats and top languages
+----
+
+I'm 24 years old and I live in Brazil :brazil:. 😁
+
+I'm currently studying and working as Back-End Developer. I'm also a Bachelor of Information Systems student at UFERSA. 👨‍🎓
+
+----
+
+### 📈 My stats and top languages
 
 <div align="center">
   <a href="https://github.com/fernando427">
@@ -8,14 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando427&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Find me
