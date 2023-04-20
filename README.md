@@ -1,10 +1,12 @@
 #### Hello there, I'm Fernando! 👋
 
-#### My stats and top languages
+#### 📈 My stats and top languages
 
-
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando427&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando427&layout=compact&langs_count=8&theme=algolia)
+<div align="center">
+  <a href="https://github.com/fernando427">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando427&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando427&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
 Here are some ideas to get you started:
 
