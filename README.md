@@ -35,5 +35,6 @@ I'm currently studying and working as Back-End Developer. I'm also a Bachelor of
 
 ### 🔎 Find me
 
-[![Outlook Badge](https://img.shields.io/badge/-fernandofelipe3007@outlook.com-c14438?style=flat&logo=Outlook&logoColor=white)](mailto:fernandofelipe3007@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-example?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-felipe-101031190/)
+[![Outlook Badge](https://img.shields.io/badge/-fernandofelipe3007@outlook.com-white?style=flat&logo=microsoft-outlook&logoColor=blue)](mailto:fernandofelipe3007@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Felipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-felipe0/)
+
