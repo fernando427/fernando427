@@ -4,7 +4,7 @@
 
 I'm 24 years old and I live in Brazil :brazil:. 😁
 
-I'm currently studying and working as Back-end Developer. I'm also a Bachelor of Information Systems undergraduate student at UFERSA. 👨‍🎓
+I'm currently studying and working as Back-end developer. I'm also a Bachelor of Information Systems undergraduate student at UFERSA. 👨‍🎓
 
 ----
 
