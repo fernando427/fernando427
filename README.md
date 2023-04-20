@@ -37,4 +37,4 @@ I'm currently studying and working as Back-End Developer. I'm also a Bachelor of
 
 [![Outlook Badge](https://img.shields.io/badge/-fernandofelipe3007@outlook.com-white?style=flat&logo=microsoft-outlook&logoColor=blue)](mailto:fernandofelipe3007@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando%20Felipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-felipe0/)
-
+[![Instagram](https://img.shields.io/badge/-\__fefernando1-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_fefernando1/)
